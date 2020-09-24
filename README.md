@@ -10,6 +10,11 @@
 </details>
 
 <details>
+  <summary><b>Configuration</b></summary>
+  <p>In chatscript.txt, Replace those lines by your message you want to send to the recipient.</p>
+</details>
+
+<details>
   <summary><b>Execution</b></summary>
   <p>To execute it, just put the functions.py & main.py in the same folder and open the main.py file with python interpreter.</p>
 </details>
